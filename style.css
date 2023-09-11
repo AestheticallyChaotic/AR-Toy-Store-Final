@@ -1,0 +1,14 @@
+button {
+    width : 155 px;
+}
+
+#button-div {
+    display : flex;
+    align-items : center;
+    justify-content : space-around;
+    position : fixed;
+    bottom : 10 px;
+    width : 100%;
+    z-index : 1;
+    border : 2 px solid black;
+}
